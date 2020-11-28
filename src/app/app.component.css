@@ -1,0 +1,25 @@
+.buttons{
+    float:right;
+    border-radius: 20px;
+    background-color: azure;
+    height: 38%;
+    width: 20%;
+    margin-right: 10%;
+    }
+    .bi{
+        display:inline-block;
+        margin:25% ;
+    
+    }
+    *{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    #first{
+        float: left;
+        width: 50%;
+        margin-left: 10%;
+    }
+    #heads{
+     
+        margin-top: 13%;
+    }
